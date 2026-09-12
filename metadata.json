@@ -1,0 +1,6 @@
+{
+  "name": "EventEase",
+  "description": "AI-powered event planner and vendor marketplace to plan, organize, and book complete events from start to finish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
